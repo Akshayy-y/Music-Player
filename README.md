@@ -16,14 +16,6 @@ Responsive Design: The layout adjusts for mobile and desktop views.
 Project Structure
 bash
 Copy code
-/music-player
-    |-- index.html          # HTML structure of the player
-    |-- styles.css          # Styling for the player
-    |-- script.js           # JavaScript to control the functionality
-    |-- cover.jpg           # Example cover art for tracks
-    |-- background.jpg      # Background image
-    |-- Popular.mp3         # Audio track 1
-    |-- perfect.mp3         # Audio track 2
 Files
 index.html
 This file contains the structure of the music player, including the controls for play/pause, next, previous, volume, and seek sliders.
